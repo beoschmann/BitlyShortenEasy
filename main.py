@@ -1,11 +1,11 @@
 import requests
 import pandas as pd
-
+import config
 df = pd.read_csv(r'C:\Users\boschman\PycharmProjects\pythonProject\testimport.csv')
 
 TOKEN = '8772d81a91dceeca5799a8afe0571bf3ee14dd8b'
 headers = {
-    'Authorization': 'Bearer '+TOKEN,
+    'Authorization': 'Bearer '+config.TOKEN,
     'Content-Type': 'application/json',
 }
 dflen = len(df)
