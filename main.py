@@ -1,6 +1,10 @@
 import requests
 import pandas as pd
 import config
+import testss
+
+a=testss.test
+
 df = pd.read_csv(r'C:\Users\boschman\PycharmProjects\pythonProject\testimport.csv')
 headers = {
     'Authorization': 'Bearer '+config.TOKEN,
@@ -16,7 +20,7 @@ for i in range(len(df)):
     jsonResponse = response.json()
     print (jsonResponse["long_url"] , jsonResponse["id"])
     file = open("resp_text.txt", "a+")
-    file.write(jsonResponse["long_url"]+jsonResponse["id"]+"\n")
+    file.write(jsonResponse["long_url"]+" = \n"+jsonResponse["id"]+"\n")
     file.close()
 
 
