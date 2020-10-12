@@ -8,7 +8,6 @@ headers = {
     'Content-Type': 'application/json',
 }
 
-#def shorten(fileimport) :
 def shorten(fileimport) :
     headers = {
         'Authorization': 'Bearer '+config.TOKEN,
