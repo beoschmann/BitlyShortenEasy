@@ -60,20 +60,29 @@ for i in range(0, len(docpars["body"]["content"])):
     if k == docsparslen :
         break
     k=k+1
+    print("début de loop k=",k)
     if "paragraph" not in docpars["body"]["content"][k] :
             k = k + 1
     if docpars["body"]["content"][k]["paragraph"] != None :
         if docpars["body"]["content"][k]["paragraph"]["elements"] != None :
             while len(docpars["body"]["content"][k]["paragraph"]["elements"])!=4 :
+                if len(docpars["body"]["content"][k]["paragraph"]["elements"]) ==6 :
+                    break
                 if k == docsparslen :
                     break
                 k = k +1
+                print("Dans le while k=",k)
             if k == docsparslen :
                 break
             if docpars["body"]["content"][k]["paragraph"]["elements"][2]["textRun"] != None:
                 if docpars["body"]["content"][k]["paragraph"]["elements"][2]["textRun"]["textStyle"] != None :
                     if docpars["body"]["content"][k]["paragraph"]["elements"][2]["textRun"]["textStyle"]["link"] != None :
                         file_out.write(docpars["body"]["content"][k]["paragraph"]["elements"][2]["textRun"]["textStyle"]["link"]["url"]+"\n")
+                        print("fin de loop k=",k)
+                        if len(docpars["body"]["content"][k]["paragraph"]["elements"]) == 6 :
+                            a="link"
+                            if a in docpars["body"]["content"][k]["paragraph"]["elements"][4]["textRun"]["textStyle"] :
+                                file_out.write(docpars["body"]["content"][k]["paragraph"]["elements"][4]["textRun"]["textStyle"]["link"]["url"]+"\n")
 
 
 file_out.close()
