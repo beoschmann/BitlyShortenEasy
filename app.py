@@ -10,8 +10,6 @@ headers = {
 
 #def shorten(fileimport) :
 def shorten(fileimport) :
-#    df = pd.read_csv(r'importurl.csv').
-#    df = pd.read_csv(r'fileimport')
     headers = {
         'Authorization': 'Bearer '+config.TOKEN,
         'Content-Type': 'application/json',
