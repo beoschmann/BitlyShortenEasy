@@ -20,7 +20,6 @@ headers = {
 
 # Set doc ID, as found at `https://docs.google.com/document/d/YOUR_DOC_ID/edit`
 DOCUMENT_ID = '1I2Rn08OSfqulqpiK_3fyqnsVJvLcDwRgLK3dEth4y0k'
-#DOCUMENT_ID = '1L0V4-AoWy5UzTr4er36fB5VTo6MTywLZHMIi-28Lkno'
 
 # Set the scopes and discovery info
 SCOPES = 'https://www.googleapis.com/auth/documents.readonly'
@@ -61,7 +60,6 @@ for i in range(0, len(docpars["body"]["content"])):
     if k == docsparslen :
         break
     k=k+1
-    #   if docpars["body"]["content"][k]["paragraph"]["elements"][2]["textRun"]["textStyle"]["link"]["url"] != NULL :
     if "paragraph" not in docpars["body"]["content"][k] :
             k = k + 1
     if docpars["body"]["content"][k]["paragraph"] != None :
@@ -76,7 +74,7 @@ for i in range(0, len(docpars["body"]["content"])):
                 if docpars["body"]["content"][k]["paragraph"]["elements"][2]["textRun"]["textStyle"] != None :
                     if docpars["body"]["content"][k]["paragraph"]["elements"][2]["textRun"]["textStyle"]["link"] != None :
                         file_out.write(docpars["body"]["content"][k]["paragraph"]["elements"][2]["textRun"]["textStyle"]["link"]["url"]+"\n")
-                        #print(docpars["body"]["content"][k]["paragraph"]["elements"][2]["textRun"]["textStyle"]["link"]["url"])
+
 
 file_out.close()
 
@@ -86,7 +84,6 @@ file_out.close()
 
 de = pd.read_csv(r'urltoshorten.csv')
 app.shorten(de)
-#print(app.shorten(dx))
 
 
 
