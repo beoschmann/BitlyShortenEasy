@@ -1,0 +1,1228 @@
+{
+    "body": {
+        "content": [
+            {
+                "endIndex": 1,
+                "sectionBreak": {
+                    "sectionStyle": {
+                        "columnSeparatorStyle": "NONE",
+                        "contentDirection": "LEFT_TO_RIGHT",
+                        "sectionType": "CONTINUOUS"
+                    }
+                }
+            },
+            {
+                "endIndex": 11,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 11,
+                            "startIndex": 1,
+                            "textRun": {
+                                "content": "Must Know\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "headingId": "h.k88e46knru46",
+                        "namedStyleType": "HEADING_3",
+                        "spacingMode": "NEVER_COLLAPSE"
+                    }
+                },
+                "startIndex": 1
+            },
+            {
+                "endIndex": 105,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 16,
+                            "startIndex": 11,
+                            "textRun": {
+                                "content": "TTR :",
+                                "textStyle": {
+                                    "fontSize": {
+                                        "magnitude": 8,
+                                        "unit": "PT"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 22,
+                            "startIndex": 16,
+                            "textRun": {
+                                "content": " 15\u2019  ",
+                                "textStyle": {}
+                            }
+                        },
+                        {
+                            "endIndex": 42,
+                            "startIndex": 22,
+                            "textRun": {
+                                "content": "October Release 2020",
+                                "textStyle": {
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "blue": 0.8,
+                                                "green": 0.33333334,
+                                                "red": 0.06666667
+                                            }
+                                        }
+                                    },
+                                    "link": {
+                                        "url": "https://ac.com"
+                                    },
+                                    "underline": true
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 105,
+                            "startIndex": 42,
+                            "textRun": {
+                                "content": " -  Enhancements to ION described from high level to deep down\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT",
+                        "spacingMode": "NEVER_COLLAPSE"
+                    }
+                },
+                "startIndex": 11
+            },
+            {
+                "endIndex": 200,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 110,
+                            "startIndex": 105,
+                            "textRun": {
+                                "content": "TTW :",
+                                "textStyle": {
+                                    "fontSize": {
+                                        "magnitude": 8,
+                                        "unit": "PT"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 116,
+                            "startIndex": 110,
+                            "textRun": {
+                                "content": " 999\u2019 ",
+                                "textStyle": {}
+                            }
+                        },
+                        {
+                            "endIndex": 141,
+                            "startIndex": 116,
+                            "textRun": {
+                                "content": "24 Hours Video Technology",
+                                "textStyle": {
+                                    "backgroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "blue": 1,
+                                                "green": 1,
+                                                "red": 1
+                                            }
+                                        }
+                                    },
+                                    "fontSize": {
+                                        "magnitude": 10.5,
+                                        "unit": "PT"
+                                    },
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "blue": 0.8,
+                                                "green": 0.33333334,
+                                                "red": 0.06666667
+                                            }
+                                        }
+                                    },
+                                    "link": {
+                                        "url": "https://ac.com"
+                                    },
+                                    "underline": true
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 200,
+                            "startIndex": 141,
+                            "textRun": {
+                                "content": " - MEGAMEETUP! A ton of material including our famous Luca\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT",
+                        "spacingMode": "NEVER_COLLAPSE"
+                    }
+                },
+                "startIndex": 105
+            },
+            {
+                "endIndex": 213,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 213,
+                            "startIndex": 200,
+                            "textRun": {
+                                "content": "Nice To Know\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "headingId": "h.5kiowlh91wv",
+                        "namedStyleType": "HEADING_3",
+                        "spacingMode": "NEVER_COLLAPSE"
+                    }
+                },
+                "startIndex": 200
+            },
+            {
+                "endIndex": 358,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 218,
+                            "startIndex": 213,
+                            "textRun": {
+                                "content": "TTR :",
+                                "textStyle": {
+                                    "fontSize": {
+                                        "magnitude": 8,
+                                        "unit": "PT"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 222,
+                            "startIndex": 218,
+                            "textRun": {
+                                "content": " 4\u2019 ",
+                                "textStyle": {}
+                            }
+                        },
+                        {
+                            "endIndex": 254,
+                            "startIndex": 222,
+                            "textRun": {
+                                "content": "What are Preload Resource Hints?",
+                                "textStyle": {
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "blue": 0.8,
+                                                "green": 0.33333334,
+                                                "red": 0.06666667
+                                            }
+                                        }
+                                    },
+                                    "link": {
+                                        "url": "https://rigor.com/blog/what-are-preload-resource-hints/"
+                                    },
+                                    "underline": true
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 358,
+                            "startIndex": 254,
+                            "textRun": {
+                                "content": " - We all know preload but are we really aware of the benefits for our customer, very well documented. \n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT",
+                        "spacingMode": "NEVER_COLLAPSE"
+                    }
+                },
+                "startIndex": 213
+            },
+            {
+                "endIndex": 486,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 363,
+                            "startIndex": 358,
+                            "textRun": {
+                                "content": "TTR :",
+                                "textStyle": {
+                                    "fontSize": {
+                                        "magnitude": 8,
+                                        "unit": "PT"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 367,
+                            "startIndex": 363,
+                            "textRun": {
+                                "content": " 4\u2019 ",
+                                "textStyle": {}
+                            }
+                        },
+                        {
+                            "endIndex": 430,
+                            "startIndex": 367,
+                            "textRun": {
+                                "content": "Amazon launches game streaming service Luna \u2013 Digital TV Europe",
+                                "textStyle": {
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "blue": 0.8,
+                                                "green": 0.33333334,
+                                                "red": 0.06666667
+                                            }
+                                        }
+                                    },
+                                    "link": {
+                                        "url": "https://www.digitaltveurope.com/2020/09/25/amazon-launches-game-streaming-service-luna/"
+                                    },
+                                    "underline": true
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 486,
+                            "startIndex": 430,
+                            "textRun": {
+                                "content": " -  Yet another service with a different business model\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT",
+                        "spacingMode": "NEVER_COLLAPSE"
+                    }
+                },
+                "startIndex": 358
+            },
+            {
+                "endIndex": 643,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 491,
+                            "startIndex": 486,
+                            "textRun": {
+                                "content": "TTR :",
+                                "textStyle": {
+                                    "fontSize": {
+                                        "magnitude": 8,
+                                        "unit": "PT"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 496,
+                            "startIndex": 491,
+                            "textRun": {
+                                "content": " 4\u2019  ",
+                                "textStyle": {}
+                            }
+                        },
+                        {
+                            "endIndex": 531,
+                            "startIndex": 496,
+                            "textRun": {
+                                "content": "Disney+ breaks Nordic growth record",
+                                "textStyle": {
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "blue": 0.8,
+                                                "green": 0.33333334,
+                                                "red": 0.06666667
+                                            }
+                                        }
+                                    },
+                                    "link": {
+                                        "url": "https://www.broadbandtvnews.com/2020/10/05/disney-breaks-nordic-growth-record/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+broadbandtvnews+%28Broadband+TV+News%29"
+                                    },
+                                    "underline": true
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 643,
+                            "startIndex": 531,
+                            "textRun": {
+                                "content": "  - It took the current streaming leader Netflix more than a year to build a subscriber base of a similar size.\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT",
+                        "spacingMode": "NEVER_COLLAPSE"
+                    }
+                },
+                "startIndex": 486
+            },
+            {
+                "endIndex": 644,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 644,
+                            "startIndex": 643,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT",
+                        "spacingMode": "NEVER_COLLAPSE"
+                    }
+                },
+                "startIndex": 643
+            },
+            {
+                "endIndex": 650,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 650,
+                            "startIndex": 644,
+                            "textRun": {
+                                "content": "Bonus\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "headingId": "h.xtjimgpndvs",
+                        "namedStyleType": "HEADING_3",
+                        "spacingMode": "NEVER_COLLAPSE"
+                    }
+                },
+                "startIndex": 644
+            },
+            {
+                "endIndex": 777,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 655,
+                            "startIndex": 650,
+                            "textRun": {
+                                "content": "TTR :",
+                                "textStyle": {
+                                    "fontSize": {
+                                        "magnitude": 8,
+                                        "unit": "PT"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 660,
+                            "startIndex": 655,
+                            "textRun": {
+                                "content": " 6\u2019  ",
+                                "textStyle": {}
+                            }
+                        },
+                        {
+                            "endIndex": 724,
+                            "startIndex": 660,
+                            "textRun": {
+                                "content": "Apple Buys Startup That Creates Radio-Like Stations for Podcasts",
+                                "textStyle": {
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "blue": 0.8,
+                                                "green": 0.33333334,
+                                                "red": 0.06666667
+                                            }
+                                        }
+                                    },
+                                    "link": {
+                                        "url": "https://www.bloomberg.com/news/articles/2020-09-24/apple-buys-startup-that-creates-radio-like-stations-for-podcasts"
+                                    },
+                                    "underline": true
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 777,
+                            "startIndex": 724,
+                            "textRun": {
+                                "content": " - just one of many acquisitions in the media space \n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT",
+                        "spacingMode": "NEVER_COLLAPSE"
+                    }
+                },
+                "startIndex": 650
+            },
+            {
+                "endIndex": 938,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 782,
+                            "startIndex": 777,
+                            "textRun": {
+                                "content": "TTR :",
+                                "textStyle": {
+                                    "fontSize": {
+                                        "magnitude": 8,
+                                        "unit": "PT"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 788,
+                            "startIndex": 782,
+                            "textRun": {
+                                "content": " 10\u2019  ",
+                                "textStyle": {}
+                            }
+                        },
+                        {
+                            "endIndex": 863,
+                            "startIndex": 788,
+                            "textRun": {
+                                "content": "Video streaming: data transmission technology crucial for climate footprint",
+                                "textStyle": {
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "blue": 0.8,
+                                                "green": 0.33333334,
+                                                "red": 0.06666667
+                                            }
+                                        }
+                                    },
+                                    "link": {
+                                        "url": "https://www.umweltbundesamt.de/en/press/pressinformation/video-streaming-data-transmission-technology"
+                                    },
+                                    "underline": true
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 938,
+                            "startIndex": 863,
+                            "textRun": {
+                                "content": " - Did you know: A copper cable (VDSL) generates four grams CO2 per hour? \n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT",
+                        "spacingMode": "NEVER_COLLAPSE"
+                    }
+                },
+                "startIndex": 777
+            },
+            {
+                "endIndex": 949,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 949,
+                            "startIndex": 938,
+                            "textRun": {
+                                "content": "Geek Bonus\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "headingId": "h.iyr2p12hjw8z",
+                        "namedStyleType": "HEADING_3",
+                        "spacingMode": "NEVER_COLLAPSE"
+                    }
+                },
+                "startIndex": 938
+            },
+            {
+                "endIndex": 1075,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 954,
+                            "startIndex": 949,
+                            "textRun": {
+                                "content": "TTR :",
+                                "textStyle": {
+                                    "fontSize": {
+                                        "magnitude": 8,
+                                        "unit": "PT"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 958,
+                            "startIndex": 954,
+                            "textRun": {
+                                "content": " 8\u2019 ",
+                                "textStyle": {}
+                            }
+                        },
+                        {
+                            "endIndex": 1021,
+                            "startIndex": 958,
+                            "textRun": {
+                                "content": "Hands-On PS5 Footage Shows Off Devil May Cry, Godfall, And More",
+                                "textStyle": {
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "blue": 0.8,
+                                                "green": 0.33333334,
+                                                "red": 0.06666667
+                                            }
+                                        }
+                                    },
+                                    "link": {
+                                        "url": "https://www.gamespot.com/articles/hands-on-ps5-footage-shows-off-devil-may-cry-godfall-and-more/1100-6482912/"
+                                    },
+                                    "underline": true
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 1075,
+                            "startIndex": 1021,
+                            "textRun": {
+                                "content": " - First peaks into details of Sonys next gen console\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT",
+                        "spacingMode": "NEVER_COLLAPSE"
+                    }
+                },
+                "startIndex": 949
+            },
+            {
+                "endIndex": 1170,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 1080,
+                            "startIndex": 1075,
+                            "textRun": {
+                                "content": "TTR :",
+                                "textStyle": {
+                                    "fontSize": {
+                                        "magnitude": 8,
+                                        "unit": "PT"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 1085,
+                            "startIndex": 1080,
+                            "textRun": {
+                                "content": " 10\u2019 ",
+                                "textStyle": {}
+                            }
+                        },
+                        {
+                            "endIndex": 1123,
+                            "startIndex": 1085,
+                            "textRun": {
+                                "content": "Cyberpunk 2077 publisher orders crunch",
+                                "textStyle": {
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "blue": 0.8,
+                                                "green": 0.33333334,
+                                                "red": 0.06666667
+                                            }
+                                        }
+                                    },
+                                    "link": {
+                                        "url": "https://www.bloomberg.com/news/articles/2020-09-29/cyberpunk-2077-publisher-orders-6-day-weeks-ahead-of-game-debut"
+                                    },
+                                    "underline": true
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 1170,
+                            "startIndex": 1123,
+                            "textRun": {
+                                "content": " - 6 day work week introduced at CDProjekt Red\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT",
+                        "spacingMode": "NEVER_COLLAPSE"
+                    }
+                },
+                "startIndex": 1075
+            },
+            {
+                "endIndex": 1369,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 1175,
+                            "startIndex": 1170,
+                            "textRun": {
+                                "content": "TTR :",
+                                "textStyle": {
+                                    "fontSize": {
+                                        "magnitude": 8,
+                                        "unit": "PT"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 1180,
+                            "startIndex": 1175,
+                            "textRun": {
+                                "content": " 10\u2019 ",
+                                "textStyle": {}
+                            }
+                        },
+                        {
+                            "endIndex": 1259,
+                            "startIndex": 1180,
+                            "textRun": {
+                                "content": "Xbox Series X: Load Time Tests And Comparisons (With Red Dead 2, Control, FFXV)",
+                                "textStyle": {
+                                    "foregroundColor": {
+                                        "color": {
+                                            "rgbColor": {
+                                                "blue": 0.8,
+                                                "green": 0.33333334,
+                                                "red": 0.06666667
+                                            }
+                                        }
+                                    },
+                                    "link": {
+                                        "url": "https://www.gamespot.com/articles/xbox-series-x-load-time-tests-and-comparisons-with-red-dead-2-control-ffxv/1100-6482659/?ftag=CAD-01-10abi2f"
+                                    },
+                                    "underline": true
+                                }
+                            }
+                        },
+                        {
+                            "endIndex": 1368,
+                            "startIndex": 1259,
+                            "textRun": {
+                                "content": " - Early tests show the brand new SSD is improving considerably load times even for previous generation games",
+                                "textStyle": {}
+                            }
+                        },
+                        {
+                            "endIndex": 1369,
+                            "startIndex": 1368,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT",
+                        "spacingMode": "NEVER_COLLAPSE"
+                    }
+                },
+                "startIndex": 1170
+            },
+            {
+                "endIndex": 1370,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 1370,
+                            "startIndex": 1369,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {
+                                    "fontSize": {
+                                        "magnitude": 8,
+                                        "unit": "PT"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT",
+                        "spacingMode": "NEVER_COLLAPSE"
+                    }
+                },
+                "startIndex": 1369
+            },
+            {
+                "endIndex": 1371,
+                "paragraph": {
+                    "elements": [
+                        {
+                            "endIndex": 1371,
+                            "startIndex": 1370,
+                            "textRun": {
+                                "content": "\n",
+                                "textStyle": {}
+                            }
+                        }
+                    ],
+                    "paragraphStyle": {
+                        "direction": "LEFT_TO_RIGHT",
+                        "namedStyleType": "NORMAL_TEXT",
+                        "spacingMode": "NEVER_COLLAPSE"
+                    }
+                },
+                "startIndex": 1370
+            }
+        ]
+    },
+    "documentId": "1I2Rn08OSfqulqpiK_3fyqnsVJvLcDwRgLK3dEth4y0k",
+    "documentStyle": {
+        "background": {
+            "color": {
+                "color": {
+                    "rgbColor": {
+                        "blue": 1,
+                        "green": 1,
+                        "red": 1
+                    }
+                }
+            }
+        },
+        "marginBottom": {
+            "magnitude": 36,
+            "unit": "PT"
+        },
+        "marginFooter": {
+            "magnitude": 36,
+            "unit": "PT"
+        },
+        "marginHeader": {
+            "magnitude": 36,
+            "unit": "PT"
+        },
+        "marginLeft": {
+            "magnitude": 36,
+            "unit": "PT"
+        },
+        "marginRight": {
+            "magnitude": 36,
+            "unit": "PT"
+        },
+        "marginTop": {
+            "magnitude": 36,
+            "unit": "PT"
+        },
+        "pageNumberStart": 1,
+        "pageSize": {
+            "height": {
+                "magnitude": 792,
+                "unit": "PT"
+            },
+            "width": {
+                "magnitude": 612,
+                "unit": "PT"
+            }
+        },
+        "useCustomHeaderFooterMargins": true
+    },
+    "namedStyles": {
+        "styles": [
+            {
+                "namedStyleType": "NORMAL_TEXT",
+                "paragraphStyle": {
+                    "alignment": "START",
+                    "avoidWidowAndOrphan": true,
+                    "borderBetween": {
+                        "color": {},
+                        "dashStyle": "SOLID",
+                        "padding": {
+                            "unit": "PT"
+                        },
+                        "width": {
+                            "unit": "PT"
+                        }
+                    },
+                    "borderBottom": {
+                        "color": {},
+                        "dashStyle": "SOLID",
+                        "padding": {
+                            "unit": "PT"
+                        },
+                        "width": {
+                            "unit": "PT"
+                        }
+                    },
+                    "borderLeft": {
+                        "color": {},
+                        "dashStyle": "SOLID",
+                        "padding": {
+                            "unit": "PT"
+                        },
+                        "width": {
+                            "unit": "PT"
+                        }
+                    },
+                    "borderRight": {
+                        "color": {},
+                        "dashStyle": "SOLID",
+                        "padding": {
+                            "unit": "PT"
+                        },
+                        "width": {
+                            "unit": "PT"
+                        }
+                    },
+                    "borderTop": {
+                        "color": {},
+                        "dashStyle": "SOLID",
+                        "padding": {
+                            "unit": "PT"
+                        },
+                        "width": {
+                            "unit": "PT"
+                        }
+                    },
+                    "direction": "LEFT_TO_RIGHT",
+                    "indentEnd": {
+                        "unit": "PT"
+                    },
+                    "indentFirstLine": {
+                        "unit": "PT"
+                    },
+                    "indentStart": {
+                        "unit": "PT"
+                    },
+                    "keepLinesTogether": false,
+                    "keepWithNext": false,
+                    "lineSpacing": 115,
+                    "namedStyleType": "NORMAL_TEXT",
+                    "shading": {
+                        "backgroundColor": {}
+                    },
+                    "spaceAbove": {
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "unit": "PT"
+                    },
+                    "spacingMode": "COLLAPSE_LISTS"
+                },
+                "textStyle": {
+                    "backgroundColor": {},
+                    "baselineOffset": "NONE",
+                    "bold": false,
+                    "fontSize": {
+                        "magnitude": 11,
+                        "unit": "PT"
+                    },
+                    "foregroundColor": {
+                        "color": {
+                            "rgbColor": {}
+                        }
+                    },
+                    "italic": false,
+                    "smallCaps": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "weightedFontFamily": {
+                        "fontFamily": "Arial",
+                        "weight": 400
+                    }
+                }
+            },
+            {
+                "namedStyleType": "HEADING_1",
+                "paragraphStyle": {
+                    "direction": "LEFT_TO_RIGHT",
+                    "keepLinesTogether": true,
+                    "keepWithNext": true,
+                    "namedStyleType": "NORMAL_TEXT",
+                    "spaceAbove": {
+                        "magnitude": 20,
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 6,
+                        "unit": "PT"
+                    }
+                },
+                "textStyle": {
+                    "fontSize": {
+                        "magnitude": 20,
+                        "unit": "PT"
+                    }
+                }
+            },
+            {
+                "namedStyleType": "HEADING_2",
+                "paragraphStyle": {
+                    "direction": "LEFT_TO_RIGHT",
+                    "keepLinesTogether": true,
+                    "keepWithNext": true,
+                    "namedStyleType": "NORMAL_TEXT",
+                    "spaceAbove": {
+                        "magnitude": 18,
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 6,
+                        "unit": "PT"
+                    }
+                },
+                "textStyle": {
+                    "bold": false,
+                    "fontSize": {
+                        "magnitude": 16,
+                        "unit": "PT"
+                    }
+                }
+            },
+            {
+                "namedStyleType": "HEADING_3",
+                "paragraphStyle": {
+                    "direction": "LEFT_TO_RIGHT",
+                    "keepLinesTogether": true,
+                    "keepWithNext": true,
+                    "namedStyleType": "NORMAL_TEXT",
+                    "spaceAbove": {
+                        "magnitude": 16,
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 4,
+                        "unit": "PT"
+                    }
+                },
+                "textStyle": {
+                    "bold": false,
+                    "fontSize": {
+                        "magnitude": 14,
+                        "unit": "PT"
+                    },
+                    "foregroundColor": {
+                        "color": {
+                            "rgbColor": {
+                                "blue": 0.2627451,
+                                "green": 0.2627451,
+                                "red": 0.2627451
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "namedStyleType": "HEADING_4",
+                "paragraphStyle": {
+                    "direction": "LEFT_TO_RIGHT",
+                    "keepLinesTogether": true,
+                    "keepWithNext": true,
+                    "namedStyleType": "NORMAL_TEXT",
+                    "spaceAbove": {
+                        "magnitude": 14,
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 4,
+                        "unit": "PT"
+                    }
+                },
+                "textStyle": {
+                    "fontSize": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                    },
+                    "foregroundColor": {
+                        "color": {
+                            "rgbColor": {
+                                "blue": 0.4,
+                                "green": 0.4,
+                                "red": 0.4
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "namedStyleType": "HEADING_5",
+                "paragraphStyle": {
+                    "direction": "LEFT_TO_RIGHT",
+                    "keepLinesTogether": true,
+                    "keepWithNext": true,
+                    "namedStyleType": "NORMAL_TEXT",
+                    "spaceAbove": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 4,
+                        "unit": "PT"
+                    }
+                },
+                "textStyle": {
+                    "fontSize": {
+                        "magnitude": 11,
+                        "unit": "PT"
+                    },
+                    "foregroundColor": {
+                        "color": {
+                            "rgbColor": {
+                                "blue": 0.4,
+                                "green": 0.4,
+                                "red": 0.4
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "namedStyleType": "HEADING_6",
+                "paragraphStyle": {
+                    "direction": "LEFT_TO_RIGHT",
+                    "keepLinesTogether": true,
+                    "keepWithNext": true,
+                    "namedStyleType": "NORMAL_TEXT",
+                    "spaceAbove": {
+                        "magnitude": 12,
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 4,
+                        "unit": "PT"
+                    }
+                },
+                "textStyle": {
+                    "fontSize": {
+                        "magnitude": 11,
+                        "unit": "PT"
+                    },
+                    "foregroundColor": {
+                        "color": {
+                            "rgbColor": {
+                                "blue": 0.4,
+                                "green": 0.4,
+                                "red": 0.4
+                            }
+                        }
+                    },
+                    "italic": true
+                }
+            },
+            {
+                "namedStyleType": "TITLE",
+                "paragraphStyle": {
+                    "direction": "LEFT_TO_RIGHT",
+                    "keepLinesTogether": true,
+                    "keepWithNext": true,
+                    "namedStyleType": "NORMAL_TEXT",
+                    "spaceAbove": {
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 3,
+                        "unit": "PT"
+                    }
+                },
+                "textStyle": {
+                    "fontSize": {
+                        "magnitude": 26,
+                        "unit": "PT"
+                    }
+                }
+            },
+            {
+                "namedStyleType": "SUBTITLE",
+                "paragraphStyle": {
+                    "direction": "LEFT_TO_RIGHT",
+                    "keepLinesTogether": true,
+                    "keepWithNext": true,
+                    "namedStyleType": "NORMAL_TEXT",
+                    "spaceAbove": {
+                        "unit": "PT"
+                    },
+                    "spaceBelow": {
+                        "magnitude": 16,
+                        "unit": "PT"
+                    }
+                },
+                "textStyle": {
+                    "fontSize": {
+                        "magnitude": 15,
+                        "unit": "PT"
+                    },
+                    "foregroundColor": {
+                        "color": {
+                            "rgbColor": {
+                                "blue": 0.4,
+                                "green": 0.4,
+                                "red": 0.4
+                            }
+                        }
+                    },
+                    "italic": false,
+                    "weightedFontFamily": {
+                        "fontFamily": "Arial",
+                        "weight": 400
+                    }
+                }
+            }
+        ]
+    },
+    "revisionId": "ALm37BUtqPuOYX2JXo0-Fv8Lb2H996fjJYWo8OTwLBG0z643Bw4rG49W_H27Ldm6i1ISbBzWuheFHQVcwLJLhA",
+    "suggestionsViewMode": "SUGGESTIONS_INLINE",
+    "title": "Copie de workingCopy URL from text in paragraph"
+}
